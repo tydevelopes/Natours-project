@@ -1,0 +1,16 @@
+/* BASIC RESET */
+*, 
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+/* GENERAL SETTING*/
+html {
+    font-size: 62.5%;   // This defines what 1ren is
+}
+/* BODY */
+body {
+    box-sizing: border-box;
+}
